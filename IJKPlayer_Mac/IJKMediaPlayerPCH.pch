@@ -1,0 +1,20 @@
+//
+//  IJKMediaPlayerPCH.pch
+//  IJKPlayer_Mac
+//
+//  Created by mini on 2017/9/6.
+//  Copyright © 2017年 mini. All rights reserved.
+//
+
+#ifndef IJKMediaPlayerPCH_pch
+#define IJKMediaPlayerPCH_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+
+#import "PlayerDef.h"
+
+
+
+#endif /* IJKMediaPlayerPCH_pch */
